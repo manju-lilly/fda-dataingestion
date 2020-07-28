@@ -1,0 +1,4 @@
+API_KEY:   
+API_ENDPOINT_PREFIX: https://api.fda.gov/drug/
+API_URLS:
+  - https://download.open.fda.gov/drug/label/drug-label-0001-of-0009.json.zip
